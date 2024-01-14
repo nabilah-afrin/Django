@@ -7,7 +7,7 @@
 # 4 8 12 16 20
 # 5 10 15 20 25
 
-number = abs(int(input))
+number = abs(int(input()))
 
 for val in range(1, number+1):
 
