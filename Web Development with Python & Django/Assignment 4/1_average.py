@@ -15,7 +15,7 @@ def avg_grade(grade_list):
 # print(average)
 
 def get_letter_grade(average):
-    if 90<=average<= 100: return"A"
+    if 90<=average<= 100: return "A"
     elif 80<=average<=89: return "B"
     elif 70<=average<=79: return "C"
     elif 60<=average<=69: return "D"
